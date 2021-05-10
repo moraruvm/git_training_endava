@@ -1,5 +1,5 @@
 Cuprins
 ------------
 01 ...... Introducere
-02 ...... Capitolul 2
+02 ...... Chiar este capitolul 2
 ------------
